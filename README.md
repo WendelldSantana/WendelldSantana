@@ -3,4 +3,4 @@
 
 
 ![WendelldSantana's GitHub stats](https://github-readme-stats.vercel.app/api?username=WendelldSantana&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WendelldSantana&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WendelldSantana&Compact_layout=true)

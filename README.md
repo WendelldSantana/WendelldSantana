@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 
 ## 🌍 Onde me encontrar
-![Linkedin: Wendell de Santana](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wendellws)
+[![Linkedin: Wendell de Santana](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wendellws)](https://www.linkedin.com/in/wendellws)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wendelldevsantana@gmail.com)](mailto:wendelldevsantana@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/81995933556)](https://wa.me/81995933556)
 

@@ -1,5 +1,5 @@
-## 👋 Olá, meu nome é <strong> Wendell de Santana!</strong>
-- 👀 I’m interested in ...
+# 👋 Olá, meu nome é <strong> Wendell de Santana!</strong>
+
 
 ## 🌍 Onde me encontrar
 [![Linkedin: Wendell de Santana](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wendellws)](https://www.linkedin.com/in/wendellws)

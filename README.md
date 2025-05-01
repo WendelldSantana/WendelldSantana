@@ -1,5 +1,7 @@
 # 👋 Olá, meu nome é <strong> Wendell de Santana!</strong>
 
+Sou estudante de Sistemas de Informação na UNINASSAU, com um forte interesse no desenvolvimento de soluções escaláveis e eficientes. Estou sempre em busca de aprimorar meus conhecimentos e otimizar processos, criando aplicações robustas que atendem às necessidades dos usuários. Com um olhar atento para novas tecnologias, me desafio constantemente em projetos de desenvolvimento web, integração de APIs e outras áreas do desenvolvimento de software, buscando sempre agregar valor aos projetos e ao meu crescimento profissional.
+
 
 ## 🌍 Onde me encontrar
 [![Linkedin: Wendell de Santana](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wendellws)](https://www.linkedin.com/in/wendellws)
